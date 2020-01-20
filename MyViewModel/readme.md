@@ -1,1 +1,2 @@
-![Screenshot_2020-01-03-19-59-35-78](https://user-images.githubusercontent.com/44047322/72204282-b55ad380-34a8-11ea-82d1-4bd2713db702.png)
+![Purwokerto](https://user-images.githubusercontent.com/43993349/72750856-99fe6f80-3bf0-11ea-8539-0a2ebbd963ff.png)
+![Semarang](https://user-images.githubusercontent.com/43993349/72750858-99fe6f80-3bf0-11ea-84f1-ce6b5c17b4ef.png)
