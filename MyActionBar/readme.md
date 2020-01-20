@@ -1,3 +1,5 @@
-![Screenshot_2020-01-10-17-12-24-00](https://user-images.githubusercontent.com/44047322/72145376-fda4c380-33cc-11ea-9472-b353383b5598.png)
-![Screenshot_2020-01-10-17-12-46-38](https://user-images.githubusercontent.com/44047322/72145400-072e2b80-33cd-11ea-817a-424546788247.png)
-![Screenshot_2020-01-10-17-12-34-72](https://user-images.githubusercontent.com/44047322/72145413-0eedd000-33cd-11ea-914c-6707a72a02a0.png)
+![Menu Activity 1](https://user-images.githubusercontent.com/43993349/72751047-15602100-3bf1-11ea-833d-2e23a5aac049.png)
+![Menu Activity 2](https://user-images.githubusercontent.com/43993349/72751050-15f8b780-3bf1-11ea-8b66-bc011107ad02.png)
+![Menu Bar](https://user-images.githubusercontent.com/43993349/72751051-15f8b780-3bf1-11ea-9c98-e9261a3645c2.png)
+![Search](https://user-images.githubusercontent.com/43993349/72751052-15f8b780-3bf1-11ea-9c97-0c9e2bd28ed5.png)
+![Tampilan Awal](https://user-images.githubusercontent.com/43993349/72751053-16914e00-3bf1-11ea-8ae8-81879ae5b525.png)
